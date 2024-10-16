@@ -22,4 +22,11 @@ Cada demanda identificada pelos membros do grupos para a solução do problema d
 
 ## Desenvolvimento da Atividade 
 
--- INSIRA AQUI A DESCRIÇÃO DO PROBLEMA ABORDADO PELO GRUPO --
+-Problema: Atualmente existem inúmeros recursos didáticos (learning objects – objetos de aprendizagem) que podem ser adotados por professores, alunos e gestores educacionais no processo de ensino-aprendizagem. Tais recursos são concebidos com o propósito de auxiliar no ensino e na aprendizagem de conteúdos/assuntos específicos (knowledge elements). Muitas vezes, a comunidade acadêmica não tem conhecimento sobre quais recursos podem ser utilizados no processo.
+
+Objetivo do trabalho: elaborar um pequeno sistema de informação que permita a consulta de learning objects indicados para assuntos específicos. 
+
+Este trabalho deverá seguir o caso de uso 3 proposto pelo professor: Sistemas de informação suportados por bancos de dados relacionais baseados em ontologias.
+
+Tipos de agentes impactados: docentes, discentes, coordenadores de cursos e gestores educacionais.
+
